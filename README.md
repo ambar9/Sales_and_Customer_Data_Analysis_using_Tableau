@@ -40,7 +40,7 @@ The Customer Dashboard provides insights into customer behavior and trends, aidi
 - **Interactive Elements:** Charts and graphs that allow users to drill down into specifics by using filters for categories like product subcategory and geographical region.
 
 ## Tableau Public URL
-You can view and interact with the dashboards here: [Tableau Public Dashboard]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/ambar4171/viz/SalesCustomerDashboard_17147237796050/SalesDashboard))
+You can view and interact with the dashboards here: [Tableau Public Dashboard] (https://public.tableau.com/app/profile/ambar4171/viz/SalesCustomerDashboard_17147237796050/SalesDashboard)
 
 ## Conclusion
 These dashboards are designed to empower stakeholders with a clear view of sales dynamics and customer engagement, supporting strategic business decisions through accessible data visualizations and robust analytics.
