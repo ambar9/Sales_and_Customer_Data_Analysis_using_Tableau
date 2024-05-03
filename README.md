@@ -17,7 +17,7 @@ The Sales Dashboard presents a detailed analysis of sales metrics to understand 
 - **Weekly Trends:** Analysis of weekly sales and profit data, including average values and performance outliers.
 
 #### Screenshot
-![Sales Dashboard](URL_TO_IMAGE)
+![Sales Dashboard](/Project_Files/Customer%20Dashboard..png)
 
 ### 2. Customer Dashboard
 
@@ -31,7 +31,7 @@ The Customer Dashboard provides insights into customer behavior and trends, aidi
 - **Top 10 Customers by Profit:** Details the top 10 most profitable customers, including additional metrics such as order count and last order date.
 
 #### Screenshot
-![Customer Dashboard](URL_TO_IMAGE)
+![Customer Dashboard](/Project_Files/Sales%20Dashboard.png)
 
 ## Interactivity and Filters
 
@@ -40,7 +40,7 @@ The Customer Dashboard provides insights into customer behavior and trends, aidi
 - **Interactive Elements:** Charts and graphs that allow users to drill down into specifics by using filters for categories like product subcategory and geographical region.
 
 ## Tableau Public URL
-You can view and interact with the dashboards here: [Tableau Public Dashboard](YOUR_TABLEAU_PUBLIC_URL)
+You can view and interact with the dashboards here: [Tableau Public Dashboard]([YOUR_TABLEAU_PUBLIC_URL](https://public.tableau.com/app/profile/ambar4171/viz/SalesCustomerDashboard_17147237796050/SalesDashboard))
 
 ## Conclusion
 These dashboards are designed to empower stakeholders with a clear view of sales dynamics and customer engagement, supporting strategic business decisions through accessible data visualizations and robust analytics.
